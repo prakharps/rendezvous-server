@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server side for IOS app",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakharps/rendezvous-server.git"
+  },
+  "author": "prakhar.gsrivastava@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prakharps/rendezvous-server/issues"
+  },
+  "homepage": "https://github.com/prakharps/rendezvous-server#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  }
+}
